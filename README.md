@@ -1,2 +1,3 @@
-# fast-testing-framework-nhho
-Automated issue comment bot repository
+# Fast Testing Framework Nhho
+
+Automated issue comment bot repository.
